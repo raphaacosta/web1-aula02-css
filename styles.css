@@ -1,0 +1,18 @@
+h1, h2 {
+  color: green;
+  font-family: Arial, Verdana;
+}
+
+h1 {
+  font-size: 30px;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+p {
+  text-align: justify;
+  font-family: Arial, Verdana;
+}
